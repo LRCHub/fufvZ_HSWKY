@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "She Looks So Perfect",
+  "base_artist": "5 Seconds of Summer",
+  "createdAt": "2026-03-15T15:43:35.164456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5SOS",
+      "has_synced": true,
+      "path": "select/01_She_Looks_So_Perfect_5SOS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She Looks so Perfect",
+      "artist": "RUNAGROUND",
+      "has_synced": false,
+      "path": "select/02_She_Looks_so_Perfect_RUNAGROUND.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5sos-she looks so perfect",
+      "artist": "5 SOS",
+      "has_synced": true,
+      "path": "select/03_5sos-she_looks_so_perfect_5_SOS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": true,
+      "path": "select/04_She_Looks_So_Perfect_5_Seconds_Of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/05_She_Looks_So_Perfect_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "Sabrina",
+      "has_synced": true,
+      "path": "select/06_She_Looks_So_Perfect_Sabrina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/07_She_Looks_So_Perfect_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/08_She_Looks_So_Perfect_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": true,
+      "path": "select/09_She_Looks_So_Perfect_5_Seconds_Of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/10_She_Looks_So_Perfect_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Looks So Perfect - Live",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/11_She_Looks_So_Perfect_-_Live_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/12_She_Looks_So_Perfect_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "She Looks So Perfect",
+      "artist": "Kyson Facer",
+      "has_synced": false,
+      "path": "select/13_She_Looks_So_Perfect_Kyson_Facer.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She Looks So Perfect (Live)",
+      "artist": "5 Seconds Of Summer",
+      "has_synced": true,
+      "path": "select/14_She_Looks_So_Perfect_(Live)_5_Seconds_Of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "5 Seconds of Summer - She Looks So Perfect",
+      "artist": "5SOS",
+      "has_synced": true,
+      "path": "select/15_5_Seconds_of_Summer_-_She_Looks_So_Perfect_5SOS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "She Looks so Perfect (Acoustic)",
+      "artist": "Corey Gray",
+      "has_synced": true,
+      "path": "select/16_She_Looks_so_Perfect_(Acoustic)_Corey_Gray.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She Looks So Perfect",
+      "artist": "5 Seconds of Summer",
+      "has_synced": false,
+      "path": "select/pl_01_She_Looks_So_Perfect_5_Seconds_of_Summer.txt"
+    }
+  ]
+}
